@@ -1,7 +1,7 @@
 ## Reference
     Testing Angular 2 in 15min
     https://www.youtube.com/watch?v=bR7JbyjT8ZM
-    
+
     https://github.com/duncanhunter/Testing-Angular-2-Presentation-at-Angular-Hack-Day-Brisbane-2016
 
 ## Term
@@ -14,8 +14,10 @@
     $ ng new angular2-ap
 
 ## Tools and Libraries
-    wallaby.js
-
+    Install wallaby extentsion in VS code
+        cmd + shift + p
+        ext install wallaby-vscode
+    npm package: "wallaby-webpack": "0.0.26"
 
     
 
